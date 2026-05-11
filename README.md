@@ -1,4 +1,4 @@
-# Proyecto Final de Python Análisis de Datos
+# Proyecto Final Análisis de Datos - Python
 
 ## Descripción 
 Este proyecto tiene como objetivo presentar una introducción al análisis de datos con Python, mostrando los principales tipos de datos, estructuras y códigos básicos empleados en el desarrollo de programas enfocados en el procesamiento y análisis de información.  
